@@ -1,5 +1,5 @@
 # Password-Saver
-One of the very old proects i made with a Pyqt5 gui
+One of the very old proects i made with a _PyQt5_ GUI
 
 It basically lets you make an account to store your usernames and passwords for various websites
 - The passwords for the accounts are saved int the `"account_name".txt` using a hashing algorithm i made myself along with a salt
